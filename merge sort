@@ -13,3 +13,5 @@ b)Big-O gösterimini yazınız.
 Her aşamada diziyi ikiye bölerek ilerlediğimiz için: 2^x=2
                                                      logn
                                                      O(nlogn)
+
+www.patika.dev
